@@ -1,0 +1,295 @@
+.parent-div {
+    width: 1443.1591796875px;
+    height: 2500px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-1-2 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1443.1591796875px;
+    height: 2500px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+  }
+  .GROUP-9-66 {
+    position: absolute;
+    width: 300.5px;
+    height: 55px;
+    left: 157px;
+    top: 402px;
+    transform: rotate(0deg);
+    z-index: 14;
+    opacity: 1;
+  }
+  .GROUP-9-67 {
+    position: absolute;
+    width: 1440px;
+    height: 621px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(0deg);
+    z-index: 15;
+    opacity: 1;
+  }
+  .RECTANGLE-9-45 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(201, 236, 219, 1);
+  
+    width: 1440px;
+    height: 621px;
+    opacity: 1;
+    mix-blend-mode: darken;
+  }
+  .GROUP-14-1416 {
+    position: absolute;
+    width: 558.81689453125px;
+    height: 443px;
+    left: 728px;
+    top: 115px;
+    transform: rotate(0deg);
+    z-index: 16;
+    opacity: 1;
+  }
+  .INSTANCE-18-39 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 37px;
+    height: 14px;
+    left: 1071px;
+    top: 59px;
+    opacity: 1;
+  }
+  .GROUP-14-1616 {
+    position: absolute;
+    width: 1440px;
+    height: 421px;
+    left: 0px;
+    top: 2079px;
+    transform: rotate(0deg);
+    z-index: 24;
+    opacity: 1;
+  }
+  .RECTANGLE-14-1602 {
+    position: absolute;
+    left: 0px;
+    top: 2079px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(38, 240, 143, 0.22);
+  
+    width: 1440px;
+    height: 421px;
+    opacity: 1;
+  }
+  .INSTANCE-14-1614 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 37px;
+    height: 14px;
+    left: 997px;
+    top: 2218px;
+    opacity: 1;
+  }
+  .FRAME-14-1617 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 456px;
+    height: 72px;
+    left: 492px;
+    top: 2364px;
+    opacity: 1;
+  }
+  .FRAME-14-1618 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    border: 1px solid rgba(32, 26, 45, 0.1);
+  
+    left: -1px !important;
+    top: -1px !important;
+    border-radius: 36px;
+    border-top-left-radius: 36px;
+    border-top-right-radius: 36px;
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+  }
+  .FRAME-14-1621 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 96px;
+    top: 0px;
+    opacity: 1;
+    border: 1px solid rgba(32, 26, 45, 0.1);
+  
+    left: 95px !important;
+    top: -1px !important;
+    border-radius: 36px;
+    border-top-left-radius: 36px;
+    border-top-right-radius: 36px;
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+  }
+  .FRAME-14-1622 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 24px;
+    opacity: 1;
+    overflow: hidden;
+  }
+  .FRAME-14-1624 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 192px;
+    top: 0px;
+    opacity: 1;
+    border: 1px solid rgba(32, 26, 45, 0.1);
+  
+    left: 191px !important;
+    top: -1px !important;
+    border-radius: 36px;
+    border-top-left-radius: 36px;
+    border-top-right-radius: 36px;
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+  }
+  .FRAME-14-1625 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 24px;
+    opacity: 1;
+    overflow: hidden;
+  }
+  .FRAME-24-9 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 288px;
+    top: 0px;
+    opacity: 1;
+    border: 1px solid rgba(32, 26, 45, 0.1);
+  
+    left: 287px !important;
+    top: -1px !important;
+    border-radius: 36px;
+    border-top-left-radius: 36px;
+    border-top-right-radius: 36px;
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+  }
+  .FRAME-24-12 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 384px;
+    top: 0px;
+    opacity: 1;
+    border: 1px solid rgba(32, 26, 45, 0.1);
+  
+    left: 383px !important;
+    top: -1px !important;
+    border-radius: 36px;
+    border-top-left-radius: 36px;
+    border-top-right-radius: 36px;
+    border-bottom-left-radius: 36px;
+    border-bottom-right-radius: 36px;
+  }
+  .RECTANGLE-196-4 {
+    position: absolute;
+    left: 0px;
+    top: 956px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(217, 217, 217, 1);
+  
+    width: 1440px;
+    height: 409px;
+    opacity: 1;
+  }
+  .RECTANGLE-259-7 {
+    position: absolute;
+    left: 757px;
+    top: 1388px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(235, 234, 232, 0.22);
+  
+    border-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  
+    filter: blur(2px);
+    width: 496px;
+    height: 669px;
+    opacity: 1;
+  }
+  .GROUP-264-26 {
+    position: absolute;
+    width: 861.66259765625px;
+    height: 715px;
+    left: 235px;
+    top: 1388px;
+    transform: rotate(0deg);
+    z-index: 48;
+    opacity: 1;
+  }
+  .RECTANGLE-264-20 {
+    position: absolute;
+    left: 235px;
+    top: 1388px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(235, 234, 232, 0.22);
+  
+    border-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  
+    filter: blur(2px);
+    width: 496px;
+    height: 669px;
+    opacity: 1;
+  }
+  .RECTANGLE-301-6 {
+    position: absolute;
+    left: 1131.02734375px;
+    top: 898px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(38, 240, 143, 1);
+  
+    width: 254px;
+    height: 52px;
+    opacity: 1;
+  }
+  
+  
